@@ -62,10 +62,11 @@
 
 ## 📊 GitHub Stats:
 
-![branko572's GitHub Stats](https://github-readme-stats.vercel.app/api?username=branko572&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=branko572&theme=gotham&hide_border=false&layout=compact&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=branko572&theme=gotham&hide_border=false)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=branko572&theme=gotham)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=branko572&theme=gotham)
 
 ---
