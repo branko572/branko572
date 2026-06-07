@@ -7,7 +7,7 @@
 - 🏢 Former Summer Reception Officer at **IAESTE** (2024–2025)
 - 📚 Contributor to a **7th-grade Informatics textbook** revision
 - 🎮 Building an **educational video game** for middle schoolers
-- ⚡ Fun fact: **A full USB drive weighs less than an empty one** (electrons have mass!)
+
 
 ---
 
