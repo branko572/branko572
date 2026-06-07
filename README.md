@@ -2,13 +2,6 @@
 
 ### Software Engineering student at the Faculty of Computer Science and Engineering (FINKI).
 
-- 🎓 3rd year Computer Science student
-- 🌍 Based in Skopje, Macedonia
-- 🏢 Former Summer Reception Officer at **IAESTE** (2024–2025)
-- 📚 Contributor to a **7th-grade Informatics textbook** revision
-- 🎮 Building an **educational video game** for middle schoolers
-
-
 ---
 
 ## 🌐 Socials:
