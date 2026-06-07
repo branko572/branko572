@@ -75,8 +75,8 @@
 | [Algorithms-and-Data-Structures](https://github.com/branko572/Algorithms-and-Data-Structures) |  Java implementations of core data structures — singly & doubly linked lists, stacks, queues, hash tables, and binary trees  | Java |
 | [Object-oriented-programming-OOP](https://github.com/branko572/Object-oriented-programming-OOP) |C++ OOP exercises modelling real-world entities: a card game, a pizza ordering system, a customer manager, and a student registry  | C++ |
 | [Basics-of-Web-Design](https://github.com/branko572/Basics-of-Web-Design) |  Three hand-crafted websites built with pure HTML & CSS, covering layout, styling, and responsive design fundamentals | HTML |
-| [Internet-Programming-on-Client-Side](https://github.com/branko572/Internet-Programming-on-Client-Side) | A collection of interesting tasks in JavaScript | HTML |
-| [Structured-programming-SP](https://github.com/branko572/Structured-programming-SP) |Browser-based JavaScript mini-games: an airplane & aliens shooter, a card game, and a line-drawing game  | C++ |
+| [Internet-Programming-on-Client-Side](https://github.com/branko572/Internet-Programming-on-Client-Side) | Browser-based JavaScript mini-games: an airplane & aliens shooter, a card game, and a line-drawing game | HTML |
+| [Structured-programming-SP](https://github.com/branko572/Structured-programming-SP) | C++ algorithmic problems covering digit manipulation, array searching, and character/string shifting | C++ |
 | [Mediums-and-Communications-Projects](https://github.com/branko572/Mediums-and-Communications-Projects) | An educational video game prototype and a full and improved 7th grade informatics book | — |
 
 ---
