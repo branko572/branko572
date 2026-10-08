@@ -1,6 +1,7 @@
 
 
-### Software Engineering student at the Faculty of Computer Science and Engineering (FINKI).
+### Software Engineering student at the Faculty of Computer Science and Engineering (FINKI), interested in full-stack development, software engineering, and emerging technologies.
+
 
 ---
 
